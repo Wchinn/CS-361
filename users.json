@@ -1,0 +1,45 @@
+{
+    "user": [
+        {
+            "userName": "Chinnw",
+            "movieList": [
+                {
+                    "movieName": "Harry Potter and the Sorcerer's Stone",
+                    "imdbRating": 7.6
+                },
+                {
+                    "movieName": "Iron Man",
+                    "imdbRating": 7.9
+                }
+            ]
+        },
+        {
+            "userName": "aidan",
+            "movieList": []
+        },
+        {
+            "userName": "connor",
+            "movieList": []
+        },
+        {
+            "userName": "charles",
+            "movieList": []
+        },
+        {
+            "userName": "testingprofile",
+            "movieList": []
+        },
+        {
+            "userName": "test",
+            "movieList": []
+        },
+        {
+            "userName": "2",
+            "movieList": []
+        },
+        {
+            "userName": "testfile",
+            "movieList": []
+        }
+    ]
+}
